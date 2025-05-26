@@ -1,0 +1,17 @@
+# Instalação do Windows Server 2019
+
+## Requisitos
+- ISO do Windows Server 2019
+- VirtualBox ou VMware
+- 2 GB de RAM
+- 60 GB de disco
+
+## Passo a Passo
+1. Abra o VirtualBox e clique em "Novo"
+2. Nomeie a VM como "Windows Server 2019"
+3. Defina a memória como 2048 MB (2 GB)
+4. Crie um disco rígido de 60 GB
+5. Selecione a ISO do Windows Server como mídia de inicialização
+6. Inicie a VM e siga o assistente de instalação
+7. Configure senha do administrador
+8. Após a instalação, instale os complementos de convidado (Guest Additions)
